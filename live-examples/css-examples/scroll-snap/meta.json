@@ -1,0 +1,11 @@
+{
+    "pages": {
+        "scrollSnap": {
+            "cssExampleSrc": "./live-examples/css-examples/scroll-snap/scroll-snap-type.css",
+            "exampleCode": "./live-examples/css-examples/scroll-snap/scroll-snap-type.html",
+            "fileName": "scroll-snap-type.html",
+            "title": "CSS Demo: scroll-snap-type",
+            "type": "css"
+        }
+    }
+}
